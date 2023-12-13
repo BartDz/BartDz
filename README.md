@@ -63,6 +63,8 @@ PHP Developer
   <a href="https://www.linkedin.com/in/bartlomiejdziedzic" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
 
+<a href="https://app.daily.dev/bartdz"><img src="https://api.daily.dev/devcards/e878d7aaa6fa4e218239eb74dd5f2ea5.png?r=nss" width="200" alt="Bart Dz's Dev Card"/></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
