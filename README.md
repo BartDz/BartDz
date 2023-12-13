@@ -12,8 +12,15 @@ PHP Developer
 
 <p align="left">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+  <a href="https://www.drupal.org" target="_blank" ref="noreferrer"><img src="https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg" width="36" height="36" alt="Drupal"></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-  
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://github.com/BartDz/BartDz/assets/3097356/28666b9a-d85a-46c2-a46a-2f485e4fed62" width="36" height="36" alt="Wordpress" /></a>
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/BartDz/BartDz/assets/3097356/f687eea0-f6e2-4107-9055-08c4dfecd9ae" width="36" height="36" alt="VScode" /></a>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" width="36" height="36" alt="PHPStorm" /></a>
+
+
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
