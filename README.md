@@ -71,6 +71,12 @@ PHP Developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BartDz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
+### Fun fun fun!
+<p align="left"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width=36 height=36 alt="Steam">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Epic_Games_logo.svg" width=36 height=36 alt="Epic Games">
+  <img src="https://github.com/BartDz/BartDz/assets/3097356/f083e891-79c2-4454-b5ef-70db21e14d5d" width=36 height=36 alt="BattleNet">
+</p>
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/bartdz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
