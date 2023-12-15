@@ -73,6 +73,7 @@ PHP Developer
 </a>
 
 ### Fun fun fun!
+
 <p align="left"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width=36 height=36 alt="Steam">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Epic_Games_logo.svg" width=36 height=36 alt="Epic Games">
@@ -81,4 +82,6 @@ PHP Developer
 
 ### Support Me
 
+<p align="left"> 
 <a href="https://www.buymeacoffee.com/bartdz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+</p>
