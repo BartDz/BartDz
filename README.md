@@ -19,7 +19,8 @@ PHP Developer
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/BartDz/BartDz/assets/3097356/f687eea0-f6e2-4107-9055-08c4dfecd9ae" width="36" height="36" alt="VScode" /></a>
   <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" width="36" height="36" alt="PHPStorm" /></a>
 
-
+  <a href="https://phpunit.de/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/BartDz/BartDz/assets/3097356/859d36e3-776a-4fca-84f2-71ce358f20ba" width="36" height="36" alt="PHPUnit" /></a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/BartDz/BartDz/assets/3097356/adfa85ca-6d6e-4b5f-ad9b-8a93dd4a3296" width="36" height="36" alt="JestJS" /></a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
