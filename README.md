@@ -11,8 +11,8 @@ PHP Developer
 ### Skills
 
 <p align="left">
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://www.drupal.org" target="_blank" ref="noreferrer"><img src="https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg" width="36" height="36" alt="Drupal"></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer" style="display: inline-block"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+  <a href="https://www.drupal.org" target="_blank" ref="noreferrer" style="display: inline-block"><img src="https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg" width="36" height="36" alt="Drupal"></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://github.com/BartDz/BartDz/assets/3097356/28666b9a-d85a-46c2-a46a-2f485e4fed62" width="36" height="36" alt="Wordpress" /></a>
 
