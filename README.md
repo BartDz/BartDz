@@ -10,7 +10,7 @@ PHP Developer
 
 ### Skills
 
-<p align="left">
+<p align="left" style="display: flex">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer" style="display: inline-block"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
   <a href="https://www.drupal.org" target="_blank" ref="noreferrer" style="display: inline-block"><img src="https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg" width="36" height="36" alt="Drupal"></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
