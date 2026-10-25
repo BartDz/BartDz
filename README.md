@@ -6,7 +6,7 @@ PHP Developer
 
 * 🌍  Coding from Cracow
 * 🧠  Learning Laravel, Symfony, React
-* ⚡  Loves hiking, music, guitar, board games, computer games.
+* ⚡  Loves hiking, music, guitar, board games, computer games
 
 ### Skills
 
